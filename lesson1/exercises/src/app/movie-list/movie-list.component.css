@@ -1,0 +1,13 @@
+
+.movies {
+    color:red;
+    font-size: 20px;
+    font-weight:500;
+    border:2px;
+    border-style: solid;
+}
+
+h3 {
+    text-align: center;
+}
+

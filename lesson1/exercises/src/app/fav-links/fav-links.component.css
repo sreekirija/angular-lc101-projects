@@ -1,0 +1,15 @@
+.linkTitle {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 25px;
+  color: mediumseagreen;
+  text-align: center;
+  
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+

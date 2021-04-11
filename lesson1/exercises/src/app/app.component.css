@@ -1,0 +1,10 @@
+hr {
+    height: 10px;
+    color: black;
+}
+
+.container {
+    background-color:rgb(241, 233, 233);
+    border:2px;
+    border-style: solid;
+  }
